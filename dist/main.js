@@ -1,1 +1,1 @@
-console.log("Man I hate that kid Umisho");
+(()=>{"use strict";console.log((function(){}))})();

@@ -1,1 +1,3 @@
-console.log('Man I hate that kid Umisho');
+import pageLoad from    './load';
+
+console.log(pageLoad);
